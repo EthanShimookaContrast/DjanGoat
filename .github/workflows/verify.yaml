@@ -42,4 +42,5 @@ jobs:
           severity: MEDIUM
           # When set to true, fails the action if CVEs have been detected that match at least the severity option specified.
           fail: true
+          ######
               
